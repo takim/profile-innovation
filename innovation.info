@@ -1,0 +1,27 @@
+name = Innovation
+description = Innovation project of wunderkraut 
+core = 7.x
+
+; Contrib
+
+dependencies[] = ns_core
+dependencies[] = ns_media
+dependencies[] = ns_field_translation
+dependencies[] = ns_text
+dependencies[] = ns_i18n
+dependencies[] = defaultconfig
+dependencies[] = pathauto
+dependencies[] = admin_menu
+dependencies[] = panelizer
+dependencies[] = date
+dependencies[] = entityreference
+dependencies[] = i18n
+
+
+; Core
+
+
+; Features
+
+; Custom modules
+
